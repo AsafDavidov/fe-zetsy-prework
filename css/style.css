@@ -26,6 +26,6 @@ h1{
 }
 #press a{
   border-width: 2px;
-  border-color: #000;
+  border-color: red;
 }
 }
