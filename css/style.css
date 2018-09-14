@@ -24,7 +24,7 @@ header #banner{
 h1{
   color: rgb(111,127,122);
   font-size: 5em;
-  
+  border-bottom: none;
 }
 #press img{
   border-width: 20px;
