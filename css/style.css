@@ -24,7 +24,7 @@ header #banner{
 h1{
   color: rgb(111,127,122);
 }
-#press a{
+#press img{
   border-width: 20px;
   border-color: red;
 }
