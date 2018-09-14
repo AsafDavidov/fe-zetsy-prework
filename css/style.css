@@ -24,3 +24,8 @@ header #banner{
 h1{
   color: rgb(111,127,122);
 }
+#press a{
+  border-width: 2px
+  border-color: #000
+}
+}
