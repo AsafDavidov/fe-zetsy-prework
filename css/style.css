@@ -30,7 +30,6 @@ h2{
   font-size: 2.5em;
 }
 img{
-  border-width: 20px;
-  border-color: red;
+  border: 20px red;
 }
 }
